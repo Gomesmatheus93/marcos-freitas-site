@@ -677,6 +677,13 @@ section {
   color: #060606;
 }
 
+.services #btn-cta{
+  background-color: #060606;
+}
+.services #btn-cta:hover{
+  background-color: #292828;
+}
+
 .services-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
