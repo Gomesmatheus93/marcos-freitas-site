@@ -669,8 +669,12 @@ section {
 /* ---------- Practice areas ---------- */
 
 .services {
-  background: var(--bg);
+  background: #fff;
   padding: 110px 0;
+}
+
+.services #titulo-services, #subtitulo-services{
+  color: #060606;
 }
 
 .services-grid {
